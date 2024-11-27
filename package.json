@@ -1,0 +1,12 @@
+{
+  "name": "desafio1node",
+  "version": "1.0.0",
+  "description": "Evaluacion introduccion a Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Medina",
+  "license": "ISC"
+}

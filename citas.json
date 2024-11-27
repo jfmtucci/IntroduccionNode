@@ -1,0 +1,23 @@
+[
+  {
+    "nombreDelAnimal": "Simba",
+    "edad": "10 Años",
+    "tipoDeAnimal": "Perro",
+    "colorDelAnimal": "Dorado",
+    "enfermedad": "Cancer"
+  },
+  {
+    "nombreDelAnimal": "Firulais",
+    "edad": "5 Años",
+    "tipoDeAnimal": "Perro",
+    "colorDelAnimal": "Marrón",
+    "enfermedad": "Gripe"
+  },
+  {
+    "nombreDelAnimal": "Benito",
+    "edad": "2 años",
+    "tipoDeAnimal": "perro",
+    "colorDelAnimal": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
